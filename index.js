@@ -21,9 +21,9 @@ return "I can\'t hear you!"
 }
 if(String.toUpperCase() === String){
   return 'YES INDEED!'
-}
+}else{
 
-if(string === " I love you Grandama."){
+
 
 return " I love you, too!"
 }
