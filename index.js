@@ -6,3 +6,4 @@ function whisper(String){
   return String.toLowerCase()
 }
 
+function log
