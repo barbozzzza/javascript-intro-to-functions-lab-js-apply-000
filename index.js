@@ -23,7 +23,7 @@ uppercase.toUpperCase() === uppercase // true
 
 return "YES INDEED"
 
-else(String)
+if(String)
  
  var lowercase = 'hello!'
  
