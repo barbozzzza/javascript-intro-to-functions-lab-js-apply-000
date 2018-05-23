@@ -19,5 +19,5 @@ function sayHiToGrandma(String){
 }
 
 function sayHiToGrandma(String){
-  
+  return 'yes'
 }
