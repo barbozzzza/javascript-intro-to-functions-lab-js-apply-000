@@ -16,10 +16,10 @@ function logWhisper(String){
 
 function sayHiToGrandma(String){
 
-if () {
-    block of code to be executed if the condition is true
+if ("HELLO" === uppercase) {
+    return 'YES INDEED!'
 } else { 
-    block of code to be executed if the condition is false
+    return 'I can\'t hear you!'
 }
 
 
