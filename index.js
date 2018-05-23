@@ -23,9 +23,9 @@ if(String.toUpperCase=== String){
   return 'YES INDEED!'
 }
 
-if(string === " I love you Grandama.")
+if(string === " I love you Grandama."){
 
 return " I love you, too!"
-
+}
 
 }
