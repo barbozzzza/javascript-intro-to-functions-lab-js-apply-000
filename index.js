@@ -15,5 +15,5 @@ function logWhisper(String){
 }
 
 function sayHiToGrandma(String){
-  
+  return 'I cant\'t hear you!'
 }
