@@ -16,16 +16,6 @@ function logWhisper(String){
 
 function sayHiToGrandma(String){
 
-if(uppercase.toUpperCase()=== uppercase){
-var uppercase = "HELLO!"
-uppercase.toUpperCase()=== uppercase
-return "YES INDEED!"
-}else{
 
-var lowercase = 'hello!'
-lowercase.toLowerCase() === lowercase
-return "I can\'t hear you!"
-
-}
 
 }
